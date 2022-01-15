@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alex-yakubovski
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning various JavaScript frameworks
-- 💞️ I’m looking to collaborate on any startup project
+- 💞️ I’m looking to collaborate on any INTERESTING startup project
 - 📫 Send me a message to: alex.yakubovski@yahoo.com
 
 <!---
